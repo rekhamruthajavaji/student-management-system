@@ -107,8 +107,7 @@ CREATE TABLE student(
 
 ## 👩‍💻 Author
 **Rekhamrutha**
-
-B.E. Computer Science Engineering  
+ 
 Java Full Stack Developer (Fresher)
 
 ---
